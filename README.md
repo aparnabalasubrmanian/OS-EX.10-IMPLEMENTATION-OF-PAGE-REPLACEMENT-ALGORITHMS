@@ -1,6 +1,7 @@
 # OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMEN
 
 AIM:
+
 To write a C program to implement Page Replacement technique using FIFO
 
 ALGORITHM:
